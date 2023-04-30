@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WaveFunctionCollapse</title>
+</head>
+<body>
+    <label for="dimension">Dimension:</label>
+    <input type="number" min="1" max="50" value="20" id="dimension"/><br>
+    <label for="sample">Sample:</label>
+    <select name="sample" id="sample" >
+        <option value="Castle">Castle</option>
+        <option value="Circles">Circles</option>
+        <option value="Circles2">Circles2</option>
+        <option value="Circuit" selected>Circuit</option>
+        <option value="FloorPlan">FloorPlan</option>
+        <option value="Knots">Knots</option>
+        <option value="Rail">Rail</option>
+        <option value="Rail2">Rail2</option>
+        <option value="Rooms">Rooms</option>
+        <option value="Summer">Summer</option>
+    </select><br>
+    <button id="redraw">Redraw</button>
+    <script src="./index.ts"></script>
+</body>
+</html>
