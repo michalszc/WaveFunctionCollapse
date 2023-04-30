@@ -1,0 +1,19 @@
+{
+    "div": ["AAA", "ABA", "AAA", "ABA"],
+    "divt": ["AAA", "ABA", "ABA", "ABA"],
+    "divturn": ["ABA", "ABA", "AAA", "AAA"],
+    "door": ["AAA", "ABA", "AAA", "ABA"],
+    "empty": ["CCC", "CCC", "CCC", "CCC"],
+    "floor": ["AAA", "AAA", "AAA", "AAA"],
+    "glass": ["AAA", "ADC", "CCC", "CDA"],
+    "halfglass": ["AAA", "ADC", "CCC", "CEA"],
+    "in": ["AAA", "AAA", "AEC", "CEA"],
+    "out": ["CEA", "AEC", "CCC", "CCC"],
+    "stairs": ["AAA", "AAA", "AAA", "AAA"],
+    "table": ["AAA", "AAA", "AAA", "AAA"],
+    "vent": ["AAA", "AAA", "AAA", "AAA"],
+    "w": ["AAA", "AEC", "CCC", "CEA"],
+    "wall": ["AAA", "AEC", "CCC", "CEA"],
+    "walldiv": ["ABA", "AEC", "CCC", "CEA"],
+    "window": ["AAA", "AEC", "CCC", "CEA"]
+}

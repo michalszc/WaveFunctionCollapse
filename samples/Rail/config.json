@@ -1,0 +1,9 @@
+{
+    "tile0": ["AAA", "AAA", "AAA", "AAA"],
+    "tile1": ["ABA", "ABA", "ABA", "AAA"],
+    "tile2": ["BAA", "AAB", "AAA", "AAA"],
+    "tile3": ["BAA", "AAA", "AAB", "CCC"],
+    "tile4": ["ABA", "ABA", "AAA", "AAA"],
+    "tile5": ["ABA", "AAA", "ABA", "AAA"],
+    "tile6": ["ABA", "ABA", "ABA", "ABA"]
+}

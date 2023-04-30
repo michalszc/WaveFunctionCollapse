@@ -1,0 +1,13 @@
+{
+    "bridge": ["GBBBBBG", "GGYYYGG", "GBBBBBG", "GGYYYGG"],
+    "ground": ["GGGGGGG", "GGGGGGG", "GGGGGGG", "GGGGGGG"],
+    "river": ["GBBBBBG", "GGGGGGG", "GBBBBBG", "GGGGGGG"],
+    "riverturn": ["GBBBBBG", "GBBBBBG", "GGGGGGG", "GGGGGGG"],
+    "road": ["GGYYYGG", "GGGGGGG", "GGYYYGG", "GGGGGGG"],
+    "roadturn": ["GGYYYGG", "GGYYYGG", "GGGGGGG", "GGGGGGG"],
+    "t": ["GGGGGGG", "GGYYYGG", "GGYYYGG", "GGYYYGG"],
+    "tower2": ["GDAAADG", "GDAAADG", "GGGGGGG", "GGGGGGG"],
+    "wall": ["GDAAADG", "GGGGGGG", "GDAAADG", "GGGGGGG"],
+    "wallriver": ["GDAAADG", "GBBBBBG", "GDAAADG", "GBBBBBG"],
+    "wallroad": ["GDAAADG", "GGYYYGG", "GDAAADG", "GGYYYGG"]
+}
