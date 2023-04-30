@@ -1,0 +1,24 @@
+{
+  "name": "WaveFunctionCollapse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/michalszc/WaveFunctionCollapse.git",
+  "author": "Michal <michalszc05@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "@types/p5": "^1.6.1",
+    "p5": "^1.6.0",
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-static-files-copy": "^2.6.0",
+    "typescript": "^5.0.4"
+  },
+  "staticFiles": {
+    "staticPath": "samples",
+    "watcherGlob": "samples/**/*",
+    "outputPath": "dist/samples/"
+  }
+}
