@@ -1,0 +1,7 @@
+{
+    "corner": ["DGD", "DGD", "DDD", "DDD"],
+    "cross": ["DGD", "DGD", "DGD", "DGD"],
+    "empty": ["DDD", "DDD", "DDD", "DDD"],
+    "line": ["DDD", "DGD", "DDD", "DGD"],
+    "t": ["DDD", "DGD", "DGD", "DGD"]
+}

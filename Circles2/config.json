@@ -1,0 +1,7 @@
+{
+    "blank": ["AAA", "AAA", "AAA", "AAA"],
+    "up": ["ABA", "ABA", "AAA", "ABA"],
+    "right": ["ABA", "ABA", "ABA", "AAA"],
+    "down": ["AAA", "ABA", "ABA", "ABA"],
+    "left": ["ABA", "AAA", "ABA", "ABA"]
+}

@@ -1,0 +1,11 @@
+{
+    "bend": ["ABB", "BBA", "AAA", "AAA"],
+    "corner": ["BBA", "ABB", "BBB", "BBB"],
+    "corridor": ["BAB", "BBB", "BAB", "BBB"],
+    "door": ["AAA", "ABB", "BAB", "BBA"],
+    "empty": ["AAA", "AAA", "AAA", "AAA"],
+    "side": ["BBB", "BBA", "AAA", "ABB"],
+    "t": ["BBB", "BAB", "BAB", "BAB"],
+    "turn": ["BAB", "BAB", "BBB", "BBB"],
+    "wall": ["BBB", "BBB", "BBB", "BBB"]
+}

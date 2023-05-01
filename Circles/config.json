@@ -1,0 +1,10 @@
+{
+    "b": ["BBB", "BBB", "BBB", "BBB"],
+    "b_half": ["BBB", "BWW", "WWW", "WWB"],
+    "b_i": ["BBB", "BWB", "BBB", "BWB"],
+    "b_quarter": ["BBB", "BBB", "BWW", "WWB"],
+    "w": ["WWW", "WWW", "WWW", "WWW"],
+    "w_half": ["WWW", "WBB", "BBB", "BBW"],
+    "w_i": ["WWW", "WBW", "WWW", "WBW"],
+    "w_quarter": ["WWW", "WWW", "BBB", "BBB"]
+}
